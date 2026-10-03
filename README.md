@@ -38,7 +38,7 @@ This is a manual QA documentation project performed on [AutomationExercise](http
 - Simulated API Testing Planning
 
 ## 👤 Tester
-**Ali Jan Anwar Samejo**
+**Ali Jan**
 
 ## 🔗 Demo Site
 [https://automationexercise.com](https://automationexercise.com)
